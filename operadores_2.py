@@ -2,7 +2,7 @@
 # == (igualdad)
 print (1 == 1)
 # != (distinto)
-print (1 !== 1)
+print (1 != 1)
 # > (Mayor que)
 print (1 > 1)
 # < (Menor que)
